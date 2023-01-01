@@ -1,0 +1,9 @@
+/* styling only the "p" elements that are 
+descendants of the "div" element */
+
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
