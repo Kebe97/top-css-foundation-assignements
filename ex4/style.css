@@ -1,0 +1,11 @@
+/* styling first picture */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+/* styling second picture */
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
