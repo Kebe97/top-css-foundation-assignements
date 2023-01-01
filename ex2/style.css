@@ -1,0 +1,19 @@
+/* styling odd lines */
+.odd {
+    background-color: pink; font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+/* styling third line */
+.odd.big {
+    font-size: 24px;
+}
+
+/* styling second line */
+#second {
+    color: blue; font-size: 36px;
+}
+
+/* styling fourth element */
+#fourth {
+    background-color: lightgreen; font-weight: bold; font-size: 24px;
+}
