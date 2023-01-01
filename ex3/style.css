@@ -1,0 +1,16 @@
+/* shared styles for the 2 buttons */
+button {
+    font-size: 28px; 
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* unique styles for button 1 */
+.but1 {
+    background-color: black;
+    color: white;
+}
+
+/* unique styles for button 2 */
+.but2 {
+    background-color: yellow;
+}
