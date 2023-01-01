@@ -1,0 +1,8 @@
+/* styling the first line of index.html */
+.first {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+}
